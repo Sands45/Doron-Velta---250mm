@@ -15,7 +15,7 @@ This adds a modest amout of printable bed space (about 9mm in diameter) and remo
 **250mm Changes**
   * Side skirts modified to accomodate the longer side rails
   * Larger clear panels for chamber.
-  * Upper, lower, top and bottom panel designs to fit the 250mm rails. (Top is inset for a cleaner finish).
+  * Upper, lower, top and bottom panel designs to fit the 250mm rails. (Top is inset for a cleaner finish - IMHO - user preference though).
   * Bed mounts tweeked to fit the bed with the larger perimeter.
   ![Bed Mount](https://github.com/Sands45/Doron-Velta---250mm/blob/main/images/Bed%20Mount.png?raw=true)
 **Skirts**
