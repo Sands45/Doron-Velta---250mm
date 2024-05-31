@@ -12,8 +12,11 @@ Additional Changes:
   * Bed mounts tweeked to fit the bed with the larger perimeter.
   ![Bed Mount](https://github.com/Sands45/Doron-Velta---250mm/blob/main/images/Bed%20Mount.png?raw=true)
 * Skirts
-  * Fan mount added to skirts.
+  * Fan mount added to skirts (same mount will work top and bottom).
+    ![Fam Mount](https://github.com/Sands45/Doron-Velta---250mm/blob/main/images/Bottom%20Fan.png?raw=true)
   * Front display mount for a Mini 12864
+    ![Mini 12864](![image](https://github.com/Sands45/Doron-Velta---250mm/assets/46139487/b7e607e9-833e-4b3b-8b49-38b0f470b9c8)
+
   * Neopixel LED holder for the Voron logos in the skirts
   * Filtered power input skirt
   * There are enough skirt parts to configure them how you'd like. Fan, no fan, display, no display, etc.
