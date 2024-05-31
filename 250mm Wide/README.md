@@ -18,6 +18,7 @@ Additional Changes:
     ![Mini 12864](![image](https://github.com/Sands45/Doron-Velta---250mm/assets/46139487/b7e607e9-833e-4b3b-8b49-38b0f470b9c8)
 
   * Neopixel LED holder for the Voron logos in the skirts
+    !(https://github.com/Sands45/Doron-Velta---250mm/blob/main/images/Neopixel%20and%20M5%20idler.png?raw=true)
   * Filtered power input skirt
   * There are enough skirt parts to configure them how you'd like. Fan, no fan, display, no display, etc.
 * Upper and lower corners opened up a bit for easier wire routing
