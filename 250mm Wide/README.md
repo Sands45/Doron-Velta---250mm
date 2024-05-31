@@ -10,6 +10,7 @@ Additional Changes:
   * Larger clear panels for chamber.
   * Upper, lower, top and bottom panel designs to fit the 250mm rails. (Top is inset for a cleaner finish).
   * Bed mounts tweeked to fit the bed with the larger perimeter.
+  * https://github.com/Sands45/Doron-Velta---250mm/blob/main/images/Bed%20Mount.png
 * Skirts
   * Fan mount added to skirts.
   * Front display mount for a Mini 12864
