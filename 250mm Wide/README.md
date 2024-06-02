@@ -1,4 +1,4 @@
-A modification of the original. Main change are 250mm long 2024 side rails (vs 235mm stock).
+A modification of the original. Main change are 250mm long 2040 side rails (vs 235mm stock).
 This adds a modest amout of printable bed space (about 9mm in diameter) and removes cuts from "stock" 250mm long 2040 extrusions.
 
 **Additional Changes:**
